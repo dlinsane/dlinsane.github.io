@@ -831,22 +831,6 @@ li span:hover:after {
         float: none;
     }
 
-    #legal-hero {
-        margin-top: 5vh !important;
-        text-align: left;
-    }
-
-    #legal-hero-des {
-        padding-right: 10px;
-        text-align: left;
-        font-size: 0.8em;
-    }
-
-    .privacy-policy p {
-        padding-right: 1vw;
-        /* text-align: left; */
-    }
-
     .project-star {
         display: none;
     }
